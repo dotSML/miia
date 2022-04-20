@@ -31,12 +31,12 @@ function App() {
   const [questions] = useState(
     shuffle([
       {
-        text: "I get horny...",
+        text: "Nothing worse than...",
         options: [
-          { text: "When I see your mom" },
-          { text: "When I sleep" },
-          { text: "When I'm in the classroom" },
-          { text: "When I see someone cry" },
+          { text: "Lack of food" },
+          { text: "Siblings" },
+          { text: "Being tired" },
+          { text: "Parents" },
         ],
       },
       {
